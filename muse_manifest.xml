@@ -1,0 +1,123 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="app02.lodge104.net" resolutions="1x" timestamp="1475679997412">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="staff.css" crc="3906200441" ref="staff"/>
+    <file name="home1.css" crc="4187054098" ref="home1"/>
+    <file name="home--welcome.css" crc="15968731" ref="home--welcome"/>
+    <file name="home3.css" crc="3794895187" ref="home3"/>
+    <file name="index.css" crc="3948771770" ref="index"/>
+    <file name="home2.css" crc="170992574" ref="home2"/>
+  </folder>
+  <folder name="assets">
+    <file name="lift_getting-started.pptx" crc="320775592" seo="true" mt="1475274057000"/>
+    <file name="lift_getting-it-done.pptx" crc="182890406" seo="true" mt="1475274112000"/>
+    <file name="lift_finishing-well.pptx" crc="34726959" seo="true" mt="1475274167000"/>
+    <file name="lift_facilitator_questions.pdf" crc="4000713638" seo="true" mt="1475274829000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:home1:home2:home--welcome:home3:staff"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:home1:home2:home--welcome:home3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="form_check.php" crc="213273828" ref="phone>home1"/>
+    <file name="form_process.php" crc="454570199" ref="phone>home1"/>
+    <file name="recaptchalib.php" crc="385583985" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="form-u1396.php" crc="315199762" ref="phone>home1"/>
+    <file name="require.js" crc="4108833657" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="form-u2308.php" crc="4244564636" ref="phone>home2"/>
+    <file name="form-u3349.php" crc="3758552939" ref="phone>home3"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="home1:home2:home3"/>
+    <file name="form-u1108.php" crc="4205441322" ref="home1"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="home1:home2:home3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home1:home2:home--welcome:home3:staff:index"/>
+    <file name="form-u1837.php" crc="236178941" ref="home2"/>
+    <file name="form-u3133.php" crc="282107902" ref="home3"/>
+  </folder>
+  <folder name="images">
+    <file name="17812975535_21405ccb13_o.jpg" crc="895298" seo="true" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="17994240249_ef95c0358b_o.jpg" crc="3810499121" seo="true" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="16927625539_f2f003c82d_o.jpg" crc="4022545602" seo="true" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="er-yrkv-dwwnz0w7ikxiseuv3gix3rrteue6sxdmqda.jpg" crc="442930372" seo="true" ref="phone>home1:phone>home2:phone>home--welcome:phone>home3:phone>staff:phone>index:home1:home2:home--welcome:home3:staff:index"/>
+    <file name="google_maps_icon.png" crc="3943964187" seo="true" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="apps-pdf-icon.png" crc="241203382" seo="true" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="32008-8a356effa5929a2089c80e08ebec4d9b-medium_jpg.jpg" crc="4076753963" seo="true" ref="phone>home1:phone>home3:home1:home3"/>
+    <file name="u1420-17.png" crc="362229886" ref="phone>home1"/>
+    <file name="u1420-17-r.png" crc="338827335" ref="phone>home1"/>
+    <file name="u1420-17-m.png" crc="63044753" ref="phone>home1"/>
+    <file name="u1420-17-fs.png" crc="4102312161" ref="phone>home1"/>
+    <file name="recaptchamodeaudio.png" crc="140711744" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="518349802" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="4104960468" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchamodeimage.png" crc="3933454017" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="4085552177" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="113419217" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptcharefresh.png" crc="249852327" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptcharefreshrollover.jpg" crc="148459208" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4076377908" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchahelp.png" crc="503944989" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchahelprollover.jpg" crc="392188070" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="recaptchahelpmousedown.jpg" crc="3938251376" ref="phone>home1:phone>home2:phone>home3:home1:home2:home3"/>
+    <file name="forms-icon.png" crc="449655399" seo="true" ref="phone>home2:phone>staff:home2:staff"/>
+    <file name="u2320-17.png" crc="362229886" ref="phone>home2"/>
+    <file name="u2320-17-r.png" crc="338827335" ref="phone>home2"/>
+    <file name="u2320-17-m.png" crc="63044753" ref="phone>home2"/>
+    <file name="u2320-17-fs.png" crc="4102312161" ref="phone>home2"/>
+    <file name="1452652579_apply_ok_check_yes_dialog.png" crc="472778493" seo="true" ref="phone>home--welcome:home--welcome"/>
+    <file name="u3371-17.png" crc="362229886" ref="phone>home3"/>
+    <file name="u3371-17-r.png" crc="338827335" ref="phone>home3"/>
+    <file name="u3371-17-m.png" crc="63044753" ref="phone>home3"/>
+    <file name="u3371-17-fs.png" crc="4102312161" ref="phone>home3"/>
+    <file name="21395852360_89f06dbebe_o.jpg" crc="3937813595" seo="true" ref="home1:home2:home--welcome:home3:staff:index"/>
+    <file name="1888774_809171082447777_8521990687988753886_o.jpg" crc="4154945149" ref="home1:home2:home3"/>
+    <file name="todd-goldfarb-02 (1).jpg" crc="4264185314" seo="true" ref="home1:home2:home3"/>
+    <file name="headshot.jpg" crc="3911916073" seo="true" ref="home1:home2:home3"/>
+    <file name="20961202854_e4fac060ce_o.jpg" crc="4079998617" seo="true" ref="home1:home2:home3"/>
+    <file name="7o4a3093.jpg" crc="431548836" seo="true" ref="home1:home2:home3"/>
+    <file name="jjordan.jpg" crc="242203669" seo="true" ref="home1:home2:home3"/>
+    <file name="rlm_headshot.jpg" crc="210110505" seo="true" ref="home1:home2:home3"/>
+    <file name="u1113-17.png" crc="362229886" ref="home1"/>
+    <file name="u1113-17-r.png" crc="338827335" ref="home1"/>
+    <file name="u1113-17-m.png" crc="63044753" ref="home1"/>
+    <file name="u1113-17-fs.png" crc="4102312161" ref="home1"/>
+    <file name="u1838-17.png" crc="362229886" ref="home2"/>
+    <file name="u1838-17-r.png" crc="338827335" ref="home2"/>
+    <file name="u1838-17-m.png" crc="63044753" ref="home2"/>
+    <file name="u1838-17-fs.png" crc="4102312161" ref="home2"/>
+    <file name="u3134-17.png" crc="362229886" ref="home3"/>
+    <file name="u3134-17-r.png" crc="338827335" ref="home3"/>
+    <file name="u3134-17-m.png" crc="63044753" ref="home3"/>
+    <file name="u3134-17-fs.png" crc="4102312161" ref="home3"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="staff.css" crc="149459224" ref="phone>staff"/>
+      <file name="index.css" crc="4140639587" ref="phone>index"/>
+      <file name="home2.css" crc="213518924" ref="phone>home2"/>
+      <file name="home--welcome.css" crc="4140015567" ref="phone>home--welcome"/>
+      <file name="home3.css" crc="411473419" ref="phone>home3"/>
+      <file name="home1.css" crc="264885879" ref="phone>home1"/>
+    </folder>
+    <file name="home1.html" crc="3994797640" seo="true" mt="1452916229316" redirect="true"/>
+    <file name="home2.html" crc="327131724" seo="true" mt="1452916229316" redirect="true"/>
+    <file name="home--welcome.html" crc="4294528450" seo="true" mt="1455928935472" redirect="true"/>
+    <file name="home3.html" crc="177790478" seo="true" mt="1452916229317" redirect="true"/>
+    <file name="staff.html" crc="3881334271" seo="true" mt="1455055914998" redirect="true"/>
+    <file name="index.html" crc="127990255" seo="true" mt="1455929034803" redirect="true"/>
+  </folder>
+  <file name="home1.html" crc="4171995929" seo="true" mt="1456271894016" redirect="true"/>
+  <file name="home2.html" crc="4237996709" seo="true" mt="1452916229316" redirect="true"/>
+  <file name="home--welcome.html" crc="4052662005" seo="true" mt="1456271975533" redirect="true"/>
+  <file name="home3.html" crc="4187288457" seo="true" mt="1452916229315" redirect="true"/>
+  <file name="staff.html" crc="4067568839" seo="true" mt="1455588776884" redirect="true"/>
+  <file name="index.html" crc="4209545733" seo="true" mt="1475274844328" redirect="true"/>
+</manifest>
